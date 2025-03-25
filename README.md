@@ -32,7 +32,7 @@ python app.py
 ```
 This should start your AI model inference server.
 
-#🚀 Using Docker
+# 🚀 Using Docker
 ## 4️⃣ Build a Docker Image
 Ensure Docker is installed and running, then build the image:
 ```sh
